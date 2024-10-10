@@ -1,0 +1,20 @@
+.footer {
+    display: flex; 
+    align-items: center;      
+    justify-content: center;    
+    background: purple;       
+    color: plum;             
+    text-align: center; 
+    padding: 20px 0;   
+    font-size: 20px;  
+    height: auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    width: 100%; 
+    position: fixed;  
+    z-index: 1000; 
+    bottom: 0;         
+ }
+
+ .footer p{
+    margin: 0 20px;
+ }

@@ -1,0 +1,18 @@
+.delete {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background: #b3a6a6;
+  border: none;
+  cursor: pointer;
+  margin-top: -10px;
+  margin-left: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(88, 10, 53, 0.938);
+  color: white;
+  flex-shrink: 0;
+}
+
+.delete:hover {
+  background: purple;
+}
